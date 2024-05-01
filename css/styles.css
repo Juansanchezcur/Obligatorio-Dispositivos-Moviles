@@ -1,0 +1,19 @@
+ion-button {
+    margin: 25px 0
+}
+
+#map {   
+    margin-top: 100px;
+    -webkit-tap-highlight-color: transparent;
+    cursor: grab;
+    background: #ddd;
+    outline-offset: 1px;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 0.75rem;
+    line-height: 1.5;
+    max-width: 100%;
+    max-height: 100%;
+    width: 600px;
+    height: 500px;
+    position:relative
+}
